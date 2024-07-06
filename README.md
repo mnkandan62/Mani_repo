@@ -1,3 +1,4 @@
 # Mani_repo
 Mani_repo
-Practicing Git 
+Practicing Git
+updated readme file in cmd
